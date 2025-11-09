@@ -1,2 +1,3 @@
 # ALP-C-Exercises
-C语言上机练习 ZJSU CST031 &amp; CST052
+
+This repository contains the C programming exercises I completed during my freshman year. 
